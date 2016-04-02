@@ -1,0 +1,19 @@
+{
+  "name": "robo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fight-mod-1.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "forever": "^0.15.1",
+    "johnny-five": "^0.9.35",
+    "keypress": "^0.2.1",
+    "player": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddiq Akbar",
+  "license": "ISC"
+}
